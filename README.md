@@ -23,5 +23,6 @@ LeetCode题解
 |500  | [Keyboard_Row](https://leetcode-cn.com/problems/keyboard-row/description/) |  [Java](./Java/Keyboard_Row/src/com/sise/Solution.java)  |Easy|  |
 |507  | [Perfect_Number](https://leetcode-cn.com/problems/perfect-number/description/) |  [Java](./Java/Perfect_Number/src/com/sise/Solution.java)  |Easy|  |
 |541  | [Reverse_StringII](https://leetcode-cn.com/problems/reverse-string-ii/description/) |  [Java](./Java/Reverse_StringII/src/com/sise/Solution.java)  |Easy|  |
-|577  | [Reverse_Words_In_A_StringIII](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |  [Java](./Java/Reverse_Words_In_A_StringIII/src/com/sise/Solution.java)  |Easy|  |
-
+|557  | [Reverse_Words_In_A_StringIII](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |  [Java](./Java/Reverse_Words_In_A_StringIII/src/com/sise/Solution.java)  |Easy|  |
+|561  | [Array_Partition](https://leetcode-cn.com/problems/array-partition-i/description/) |  [Java](./Java/Array_Partition/src/com/sise/Solution.java)  |Easy|  |
+|657  | [Judge_Route_Circle](https://leetcode-cn.com/problems/judge-route-circle/description/) |  [Java](./Java/Judge_Route_Circle/src/com/sise/Solution.java)  |Easy|  |
