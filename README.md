@@ -15,4 +15,5 @@ LeetCode题解
 * [Reverse_Words](./Java/Reverse_Words/src/com/sise/Solution.java)
 * [Self_Diving_Numbers](./Java/Self_Diving_Numbers/src/com/sise/Solution.java)
 * [Single_NumberII](./Java/Single_NumberII/src/com/sise/Solution.java)
+* [Ugly_Number](./Java/Ugly_Number/src/com/sise/Solution.java)
 
