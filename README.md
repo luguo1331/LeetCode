@@ -1,7 +1,7 @@
 # LeetCode
 LeetCode题解
 
-# 传送门
+# 传送门  ![](https://img.shields.io/badge/language-Java-blue.svg) ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 * [Add_Digits](./Java/Add_Digits/src/com/sise/Solution.java)
 * [Array_Partition](./Java/Array_Partition/src/com/sise/Solution.java)
