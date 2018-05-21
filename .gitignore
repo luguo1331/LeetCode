@@ -27,3 +27,5 @@
 ### Ecpilse ###
 bin/
 .settings
+.metadata
+.recommenders
