@@ -21,4 +21,7 @@ LeetCode题解
 |461  | [Hamming_Distance](https://leetcode-cn.com/problems/hamming-distance/description/) |  [Java](./Java/Hamming_Distance/src/com/sise/Solution.java)  |Easy|  |
 |476 | [Number_Complement](https://leetcode-cn.com/problems/number-complement/description/) |  [Java](./Java/Number_Complement/src/com/sise/Solution.java)  |Easy|  |
 |500  | [Keyboard_Row](https://leetcode-cn.com/problems/keyboard-row/description/) |  [Java](./Java/Keyboard_Row/src/com/sise/Solution.java)  |Easy|  |
+|507  | [Perfect_Number](https://leetcode-cn.com/problems/perfect-number/description/) |  [Java](./Java/Perfect_Number/src/com/sise/Solution.java)  |Easy|  |
+|541  | [Reverse_StringII](https://leetcode-cn.com/problems/reverse-string-ii/description/) |  [Java](./Java/Reverse_StringII/src/com/sise/Solution.java)  |Easy|  |
+|577  | [Reverse_Words_In_A_StringIII](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |  [Java](./Java/Reverse_Words_In_A_StringIII/src/com/sise/Solution.java)  |Easy|  |
 
