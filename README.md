@@ -13,4 +13,6 @@ LeetCode题解
 * [Remote_Systems_TempFiles](./Java/Remote_Systems_TempFiles/src/com/sise/Solution.java)
 * [Reverse_StringII](./Java/Reverse_StringII/src/com/sise/Solution.java)
 * [Reverse_Words](./Java/Reverse_Words/src/com/sise/Solution.java)
+* [Self_Diving_Numbers](./Java/Self_Diving_Numbers/src/com/sise/Solution.java)
+* [Single_NumberII](./Java/Single_NumberII/src/com/sise/Solution.java)
 
