@@ -25,5 +25,5 @@
 /.nb-gradle/
 
 ### Ecpilse ###
-/bin/
+bin/
 .settings
