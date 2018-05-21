@@ -3,4 +3,5 @@ LeetCode题解
 
 # 传送门
 
-* [Add_Digits](.Java/Add_Digits/src/com/sise/Solution.java)
+* [Add_Digits](./Java/Add_Digits/src/com/sise/Solution.java)
+* [Array_Partition](./Java/Array_Partition/src/com/sise/Solution.java)
