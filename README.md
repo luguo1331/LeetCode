@@ -7,7 +7,7 @@ LeetCode题解
 * [Array_Partition](./Java/Array_Partition/src/com/sise/Solution.java)
 * [Count_Primes](./Java/Count_Primes/src/com/sise/Solution.java)
 * [Generating_Bracket](./Java/Generating_Bracket/src/com/sise/Solution.java)
-
 * [Happy_Number](./Java/Happy_Number/src/com/sise/Solution.java)
+* [Nim_Game](./Java/Nim_Game/src/com/sise/Solution.java)
+* [Perfect_Number](./Java/Perfect_Number/src/com/sise/Solution.java)
 
-Happy_Number
