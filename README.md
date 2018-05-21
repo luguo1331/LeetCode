@@ -11,4 +11,6 @@ LeetCode题解
 * [Nim_Game](./Java/Nim_Game/src/com/sise/Solution.java)
 * [Perfect_Number](./Java/Perfect_Number/src/com/sise/Solution.java)
 * [Remote_Systems_TempFiles](./Java/Remote_Systems_TempFiles/src/com/sise/Solution.java)
+* [Reverse_StringII](./Java/Reverse_StringII/src/com/sise/Solution.java)
+* [Reverse_Words](./Java/Reverse_Words/src/com/sise/Solution.java)
 
