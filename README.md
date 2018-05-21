@@ -19,5 +19,6 @@ LeetCode题解
 |292  | [Nim_Game](https://leetcode-cn.com/problems/nim-game/description/) |  [Java](./Java/Nim_Game/src/com/sise/Solution.java)  |Easy|  |
 |344  | [Reverse_String](https://leetcode-cn.com/problems/reverse-string/description/) |  [Java](./Java/Reverse_String/src/com/sise/Solution.java)  |Easy|  |
 |461  | [Hamming_Distance](https://leetcode-cn.com/problems/hamming-distance/description/) |  [Java](./Java/Hamming_Distance/src/com/sise/Solution.java)  |Easy|  |
+|476 | [Number_Complement](https://leetcode-cn.com/problems/number-complement/description/) |  [Java](./Java/Number_Complement/src/com/sise/Solution.java)  |Easy|  |
+|500  | [Keyboard_Row](https://leetcode-cn.com/problems/keyboard-row/description/) |  [Java](./Java/Keyboard_Row/src/com/sise/Solution.java)  |Easy|  |
 
-Hamming_Distance
