@@ -5,11 +5,16 @@ LeetCode题解
 
 | #       |   Titile      | Solution    |   Difficulty   |   Note
 | - | :-: |:-: | :-: | -: | 
-|1  | [Add_Digits](https://leetcode-cn.com/problems/two-sum/description/) |  [Java](./Java/Two_Sum/src/com/sise/Solution.java)  |Easy|  |
+|1  | [Two_Sum](https://leetcode-cn.com/problems/two-sum/description/) |  [Java](./Java/Two_Sum/src/com/sise/Solution.java)  |Easy|  |
 |7  | [Reverse_Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |  [Java](./Java/Reverse_Integer/src/com/sise/Solution.java)  |Easy|  |
 |9  | [Palindrome_Number](https://leetcode-cn.com/problems/palindrome-number/description/) |  [Java](./Java/Palindrome_Number/src/com/sise/Solution.java)  |Easy|  |
 |22 | [Generating_Bracket](https://leetcode-cn.com/problems/generate-parentheses/description/) |  [Java](./Java/Generating_Bracket/src/com/sise/Solution.java) |Medium| |
 |136 | [Single_Number](https://leetcode-cn.com/problems/single-number/description/) |  [Java](./Java/Single_Number/src/com/sise/Solution.java)  |Easy|  |
 |137 | [Single_NumberII](https://leetcode-cn.com/problems/single-number-ii/description/) |  [Java](./Java/Single_NumberII/src/com/sise/Solution.java)  |Medium|  |
 |191 | [Number_Of_One_Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |  [Java](./Java/Number_Of_One_Bits/src/com/sise/Solution.java)  |Easy|  |
-Number_Of_One_Bits
+|202  | [Happy_Number](https://leetcode-cn.com/problems/happy-number/description/) |  [Java](./Java/Happy_Number/src/com/sise/Solution.java)  |Easy|  |
+|204  | [Count_Primes](https://leetcode-cn.com/problems/count-primes/description/) |  [Java](./Java/Count_Primes/src/com/sise/Solution.java)  |Easy|  |
+|258  | [Add_Digits](https://leetcode-cn.com/problems/add-digits/description/) |  [Java](./Java/Add_Digits/src/com/sise/Solution.java)  |Easy|  |
+|263  | [Ugly_Number](https://leetcode-cn.com/problems/ugly-number/description/) |  [Java](./Java/Ugly_Number/src/com/sise/Solution.java)  |Easy|  |
+|292  | [Nim_Game](https://leetcode-cn.com/problems/nim-game/description/) |  [Java](./Java/Nim_Game/src/com/sise/Solution.java)  |Easy|  |
+|344  | [Reverse_String](https://leetcode-cn.com/problems/reverse-string/description/) |  [Java](./Java/Reverse_String/src/com/sise/Solution.java)  |Easy|  |
