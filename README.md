@@ -28,4 +28,5 @@ LeetCode题解
 |657  | [Judge_Route_Circle](https://leetcode-cn.com/problems/judge-route-circle/description/) |  [Java](./Java/Judge_Route_Circle/src/com/sise/Solution.java)  |Easy|  |
 |728  | [Self_Diving_Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/) |  [Java](./Java/Self_Diving_Numbers/src/com/sise/Solution.java)  |Easy|  |
 |771  | [Jewels_And_Atones](https://leetcode-cn.com/problems/jewels-and-stones/description/) |  [Java](./Java/Jewels_And_Atones/src/com/sise/Solution.java)  |Easy|  |
-
+|804  | [Unique_Morse_Code_Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) |  [Java](./Java/Unique_Morse_Code_Words/src/com/sise/Solution.java)  |Easy|  |
+|832  | [Flipping_An_Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |  [Java](./Java/Flipping_An_Image/src/com/sise/Solution.java)  |Easy|  |
