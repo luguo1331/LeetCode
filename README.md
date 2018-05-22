@@ -2,13 +2,14 @@
 LeetCode题解
 
 # 传送门  ![](https://img.shields.io/badge/language-Java-blue.svg) ![](https://img.shields.io/badge/license-MIT-yellow.svg)
-
-| #       |   Titile      | Solution    |   Difficulty   |   Note
+ 
+| #       |   Titile      |     Solution     |         Difficulty         |      Note   
 | - | :-: |:-: | :-: | -: | 
 |1  | [Two_Sum](https://leetcode-cn.com/problems/two-sum/description/) |  [Java](./Java/Two_Sum/src/com/sise/Solution.java)  |Easy|  |
 |7  | [Reverse_Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |  [Java](./Java/Reverse_Integer/src/com/sise/Solution.java)  |Easy|  |
 |9  | [Palindrome_Number](https://leetcode-cn.com/problems/palindrome-number/description/) |  [Java](./Java/Palindrome_Number/src/com/sise/Solution.java)  |Easy|  |
 |22 | [Generating_Bracket](https://leetcode-cn.com/problems/generate-parentheses/description/) |  [Java](./Java/Generating_Bracket/src/com/sise/Solution.java) |Medium| |
+|121  | [Best_Time_To_Buy_And_Sell_Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) |  [Java](./Java/Best_Time_To_Buy_And_Sell_Stock/src/com/sise/Solution.java)  |Easy|  |
 |136 | [Single_Number](https://leetcode-cn.com/problems/single-number/description/) |  [Java](./Java/Single_Number/src/com/sise/Solution.java)  |Easy|  |
 |137 | [Single_NumberII](https://leetcode-cn.com/problems/single-number-ii/description/) |  [Java](./Java/Single_NumberII/src/com/sise/Solution.java)  |Medium|  |
 |191 | [Number_Of_One_Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |  [Java](./Java/Number_Of_One_Bits/src/com/sise/Solution.java)  |Easy|  |
@@ -30,3 +31,5 @@ LeetCode题解
 |771  | [Jewels_And_Atones](https://leetcode-cn.com/problems/jewels-and-stones/description/) |  [Java](./Java/Jewels_And_Atones/src/com/sise/Solution.java)  |Easy|  |
 |804  | [Unique_Morse_Code_Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) |  [Java](./Java/Unique_Morse_Code_Words/src/com/sise/Solution.java)  |Easy|  |
 |832  | [Flipping_An_Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |  [Java](./Java/Flipping_An_Image/src/com/sise/Solution.java)  |Easy|  |
+
+Best_Time_To_Buy_And_Sell_Stock
