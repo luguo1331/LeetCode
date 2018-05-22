@@ -26,3 +26,6 @@ LeetCode题解
 |557  | [Reverse_Words_In_A_StringIII](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |  [Java](./Java/Reverse_Words_In_A_StringIII/src/com/sise/Solution.java)  |Easy|  |
 |561  | [Array_Partition](https://leetcode-cn.com/problems/array-partition-i/description/) |  [Java](./Java/Array_Partition/src/com/sise/Solution.java)  |Easy|  |
 |657  | [Judge_Route_Circle](https://leetcode-cn.com/problems/judge-route-circle/description/) |  [Java](./Java/Judge_Route_Circle/src/com/sise/Solution.java)  |Easy|  |
+|728  | [Self_Diving_Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/) |  [Java](./Java/Self_Diving_Numbers/src/com/sise/Solution.java)  |Easy|  |
+|771  | [Jewels_And_Atones](https://leetcode-cn.com/problems/jewels-and-stones/description/) |  [Java](./Java/Jewels_And_Atones/src/com/sise/Solution.java)  |Easy|  |
+
