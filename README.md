@@ -18,6 +18,7 @@ LeetCode题解
 |204  | [Count_Primes](https://leetcode-cn.com/problems/count-primes/description/) |  [Java](./Java/Count_Primes/src/com/sise/Solution.java)  |Easy|  |
 |258  | [Add_Digits](https://leetcode-cn.com/problems/add-digits/description/) |  [Java](./Java/Add_Digits/src/com/sise/Solution.java)  |Easy|  |
 |263  | [Ugly_Number](https://leetcode-cn.com/problems/ugly-number/description/) |  [Java](./Java/Ugly_Number/src/com/sise/Solution.java)  |Easy|  |
+|283  | [Move_Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) |  [Java](./Java/Move_Zeroes/src/com/sise/Solution.java)  |Easy|  |
 |292  | [Nim_Game](https://leetcode-cn.com/problems/nim-game/description/) |  [Java](./Java/Nim_Game/src/com/sise/Solution.java)  |Easy|  |
 |344  | [Reverse_String](https://leetcode-cn.com/problems/reverse-string/description/) |  [Java](./Java/Reverse_String/src/com/sise/Solution.java)  |Easy|  |
 |461  | [Hamming_Distance](https://leetcode-cn.com/problems/hamming-distance/description/) |  [Java](./Java/Hamming_Distance/src/com/sise/Solution.java)  |Easy|  |
