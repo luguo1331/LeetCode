@@ -9,6 +9,7 @@ LeetCode题解
 |7  | [Reverse_Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |  [Java](./Java/Reverse_Integer/src/com/sise/Solution.java)  |Easy|  |
 |9  | [Palindrome_Number](https://leetcode-cn.com/problems/palindrome-number/description/) |  [Java](./Java/Palindrome_Number/src/com/sise/Solution.java)  |Easy|  |
 |22 | [Generating_Bracket](https://leetcode-cn.com/problems/generate-parentheses/description/) |  [Java](./Java/Generating_Bracket/src/com/sise/Solution.java) |Medium| |
+|26  | [Remove_Duplicates_From_Sorted_Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) |  [Java](./Java/Remove_Duplicates_From_Sorted_Array/src/com/sise/Solution.java)  |Easy|  |
 |27  | [Remove_Element](https://leetcode-cn.com/problems/remove-element/description/) |  [Java](./Java/Remove_Element/src/com/sise/Solution.java)  |Easy|  |
 |121  | [Best_Time_To_Buy_And_Sell_Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) |  [Java](./Java/Best_Time_To_Buy_And_Sell_Stock/src/com/sise/Solution.java)  |Easy|  |
 |122  | [Best_Time_To_Buy_And_Sell_StockII](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |  [Java](./Java/Best_Time_To_Buy_And_Sell_StockII/src/com/sise/Solution.java)  |Easy|  |
@@ -36,4 +37,4 @@ LeetCode题解
 |832  | [Flipping_An_Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |  [Java](./Java/Flipping_An_Image/src/com/sise/Solution.java)  |Easy|  |
 
 
-Remove_Element
+Remove_Duplicates_From_Sorted_Array
