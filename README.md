@@ -6,6 +6,7 @@ LeetCode题解
 | #       |   Titile      |     Solution     |         Difficulty         |      Note   
 | - | :-: |:-: | :-: | -: | 
 |1  | [Two_Sum](https://leetcode-cn.com/problems/two-sum/description/) |  [Java](./Java/Two_Sum/src/com/sise/Solution.java)  |Easy|  |
+|3  | [Longest_Substring_Without_Repeating_Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) |  [Java](./Java/Longest_Substring_Without_Repeating_Characters/src/com/sise/Solution.java)  |Easy|  |
 |7  | [Reverse_Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |  [Java](./Java/Reverse_Integer/src/com/sise/Solution.java)  |Easy|  |
 |9  | [Palindrome_Number](https://leetcode-cn.com/problems/palindrome-number/description/) |  [Java](./Java/Palindrome_Number/src/com/sise/Solution.java)  |Easy|  |
 |22 | [Generating_Bracket](https://leetcode-cn.com/problems/generate-parentheses/description/) |  [Java](./Java/Generating_Bracket/src/com/sise/Solution.java) |Medium| |
@@ -44,5 +45,3 @@ LeetCode题解
 |804  | [Unique_Morse_Code_Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) |  [Java](./Java/Unique_Morse_Code_Words/src/com/sise/Solution.java)  |Easy|  |
 |832  | [Flipping_An_Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |  [Java](./Java/Flipping_An_Image/src/com/sise/Solution.java)  |Easy|  |
 
-
-Minimum_Size_Subarray_Sum

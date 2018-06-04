@@ -18,6 +18,9 @@ public class Solution {
 				res = r-l+1;
 			}
 		}
-		
+		if (res == len +1) {
+			return 0;
+		}
+		return  res;
 	}
 }
